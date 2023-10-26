@@ -2,6 +2,7 @@ const trees = "Aspen and Pine";
 
 function wildlife() {
   console.log("Elk, Bighorn Sheep, Moose");
+  elevation();
 }
 
 function elevation() {
@@ -9,3 +10,4 @@ function elevation() {
 }
 
 export { trees, wildlife };
+// export default wildlife;
